@@ -5389,3 +5389,8 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2024.02.27-00.01.28:596][196]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.059
 [2024.02.27-00.02.42:898][428]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
 [2024.02.27-00.02.43:583][467]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2024.02.27-00.12.50:708][735]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2024.02.27-00.12.50:728][735]LogSavePackage: Moving '../../../../../../Users/dpana/OneDrive/Desktop/GitHub/cage_fighters/Saved/Minimal_DefaultBDFF54FD432795722956ACBA8192D65C.tmp' to '../../../../../../Users/dpana/OneDrive/Desktop/GitHub/cage_fighters/Content/StarterContent/Maps/Minimal_Default.umap'
+[2024.02.27-00.12.50:737][735]LogFileHelpers: Saving map 'Minimal_Default' took 0.051
+[2024.02.27-00.12.50:745][735]AssetCheck: New page: Asset Save: Minimal_Default
+[2024.02.27-00.12.50:745][735]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
